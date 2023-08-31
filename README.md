@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/Oppy09/pricing-component-with-toggle-master)
+- Live Site URL: [Add live site URL here](https://oppy09.github.io/pricing-component-with-toggle-master/)
 
 ## My process
   I started I looked up the original README.md file to get to know the objectives of the challenge and what styles or resources I would need to solve the challenge
